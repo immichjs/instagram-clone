@@ -1,17 +1,20 @@
 <template>
-  <div id="app" class="flex items-center justify-center h-screen bg-gray-50">
-    <Home />
+  <div id="app" class="flex flex-col items-center justify-center h-screen gap-5 lg:flex-row">
+    <Smartphone/>
+    <Login/>
   </div>
 </template>
 
 <script>
-import Home from '@/components/Home'
+import Smartphone from '@/components/Smartphone'
+import Login from '@/components/Login'
 
 export default {
   name: 'App',
-  title: 'Vue with Tailwind CSS | Template',
+  title: 'Instagram',
   components: {
-    Home
+    Smartphone,
+    Login
   }
 }
 </script>
@@ -19,5 +22,6 @@ export default {
 <style lang="postcss">
 #app {
   font-family: 'Montserrat', sans-serif;
+  background-color: #FAFAFA;
 }
 </style>
