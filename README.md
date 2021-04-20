@@ -1,9 +1,9 @@
-# Vue Tailwind Template
+# Instagram Clone
 
-Criei este repositório para me ajudar na hora de desenvolver uma aplicação, pois acaba facilitando muito toda a configuração do ambiente.
+Clone da página de login do Instagram.
 
 <p align="center">
-    <img src="https://i.imgur.com/g1Ev9cH.png">
+    <img src="https://i.imgur.com/D66DWdB.png">
 </p>
 
 ## Começando
@@ -12,9 +12,9 @@ Para inicilizar e usar este template, é necessário ter duas ferramentas instal
 
 - Clone o projeto com os comando abaixo:
 ```
-$ git clone git@github.com:immichjs/vue-tailwind-template.git
+$ git clone git@github.com:immichjs/instagram-clone.git
 
-$ cd vue-tailwind-template
+$ cd instagram-clone
 ```
 
 - Logo após, instale todas as dependencias com:
