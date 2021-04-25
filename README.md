@@ -37,5 +37,5 @@ Leia as documentações abaixo para continuar seu desenvolvimento com essas tecn
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vue.js](https://br.vuejs.org/)
 
-<p align="center">Template feito com 💖 por Mich.</p>
+<p align="center">Feito com 💖 por Mich.</p>
 
